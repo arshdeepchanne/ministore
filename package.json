@@ -14,5 +14,8 @@
   "type": "module",
   "workspaces": [
     "src/ministore_frontend"
-  ]
+  ],
+  "dependencies": {
+    "antd": "^5.15.3"
+  }
 }
